@@ -4,8 +4,6 @@ A comprehensive benchmark for evaluating large language models' capabilities as 
 
 ## Overview
 
-The Chinese Language Teaching Evaluation (CLTE) benchmark addresses the gap in existing LLM evaluation frameworks by specifically assessing language teaching capabilities, particularly for teaching Chinese as a second language. While current benchmarks like MMLU, C-EVAL, and CMMLU focus on broad knowledge assessment, they lack specialized evaluation of practical teaching skills essential for real-world language instruction.
-
 ![CLTE Benchmark Overall Architecture](./assets/main.png)
 
 ## Task Overview
