@@ -1,0 +1,26 @@
+{
+    "task1": {
+        "World Culture": {
+            "overall": 0.0
+        },
+        "Linguistics": {
+            "overall": 0.5
+        },
+        "overall": 0.4,
+        "model_name": "qwen3-8b"
+    },
+    "task2": {
+        "overall": 0.4,
+        "model_name": "qwen3-8b"
+    },
+    "task3": {
+        "overall": 0.8,
+        "student_scores": {
+            "qwen-1_8b": 0.6,
+            "qwen-7b": 1.0,
+            "qwen-14b": 0.8,
+            "yi-6b": 0.8,
+            "internlm2-7b": 0.8
+        }
+    }
+}
